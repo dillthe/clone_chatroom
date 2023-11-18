@@ -37,6 +37,7 @@ main {
 
 .received .message-content {
   background-color: #fe7e35;
+  color: white;
   align-self: flex-start;
 }
 
